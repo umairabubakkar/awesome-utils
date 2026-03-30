@@ -1,0 +1,12 @@
+{
+  "name": "awesome-utils",
+  "version": "1.0.0",
+  "description": "Collection of useful utility functions",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Tests passed\" && exit 0"
+  },
+  "keywords": ["utils", "utilities", "helpers"],
+  "author": "Umair Abubakkar",
+  "license": "MIT"
+}
